@@ -104,3 +104,8 @@ Calculates consensus parameters and permanently freezes authenticated receipts w
 Exposes optimized public endpoints to feed real-time contract states, tallies, and configurations straight to the Frontend interface.
 
 **Contract ID:** CBNPIAC2LI2R5NZGPA7VNKEFKVTXBUOFDLROKYS3523KXHJ5DAU7OGZF
+### Contact me
+
+**Facebook:** https://www.facebook.com/eirakimura
+**Gmail:** vnender2007@gmail.com
+**Number:** 0375300018
